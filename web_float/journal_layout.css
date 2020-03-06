@@ -1,0 +1,31 @@
+.whole-container{
+	background-color: white;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+.blue-box{
+	background-color: #E8FBFB;
+	padding: 5px;
+	margin-top: 10px;
+	overflow: hidden;
+}
+
+.blue-box img{
+	float: right;
+}
+
+.FriendContainer{
+		margin: 10px;
+		width: auto;
+		height: auto;
+		float: left;
+		background: #99E0E0;
+		border: 5px #049299 solid;
+		overflow: hidden;
+		padding: 10px;
+}
+
+body{
+	background: url("http://www.photos-public-domain.com/wp-content/uploads/2012/05/sky-blue-brick-wall-texture.jpg");
+}
